@@ -31,6 +31,7 @@ class Matakuliah {
 
             }
 
+            void output() {
 
 
             }
